@@ -1,0 +1,3 @@
+= Семинары КПО. Заметки
+
+* link:src/docs/asciidoc/seminar-01.adoc[Семинар 1]
